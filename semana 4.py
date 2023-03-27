@@ -1,6 +1,3 @@
-'''Nome: Rosimari mendes de Oliveira
-    Curso: Raciocinio computacional'''
-
 # Declara a lista 
 lista = []
 
