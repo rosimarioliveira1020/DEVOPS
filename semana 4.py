@@ -1,3 +1,4 @@
+    #alterando
     print ("Bem-vindo ao menu de Operações! Digite uma opção desejada e aperte o enter no final,")
     opcao = int(input(" 1. Gerenciar Estudantes\n 2. Gerenciar Disciplinas\n 3. Gerenciar Professores\n 4. Gerenciar Turmas\n 5. Gerenciar Matriculas\n 6. Sair\n\n Informe a modalidade desejada: "))
     if opcao == 1:
