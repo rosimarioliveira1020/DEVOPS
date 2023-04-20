@@ -7,5 +7,5 @@ while c <= n:
         r = r + c * s
     else:
         r = r + c
-    c= c + 1
+    c= c + 12
 print(r)
